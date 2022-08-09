@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "https://xdefidev.github.io/csb-wz3004/static/css/main.ead0b3bd.chunk.css",
+    "main.js": "https://xdefidev.github.io/csb-wz3004/static/js/main.8fad8596.chunk.js",
+    "main.js.map": "https://xdefidev.github.io/csb-wz3004/static/js/main.8fad8596.chunk.js.map",
+    "runtime-main.js": "https://xdefidev.github.io/csb-wz3004/static/js/runtime-main.32ced8cf.js",
+    "runtime-main.js.map": "https://xdefidev.github.io/csb-wz3004/static/js/runtime-main.32ced8cf.js.map",
+    "static/css/2.7fa18b2e.chunk.css": "https://xdefidev.github.io/csb-wz3004/static/css/2.7fa18b2e.chunk.css",
+    "static/js/2.ffbf75a4.chunk.js": "https://xdefidev.github.io/csb-wz3004/static/js/2.ffbf75a4.chunk.js",
+    "static/js/2.ffbf75a4.chunk.js.map": "https://xdefidev.github.io/csb-wz3004/static/js/2.ffbf75a4.chunk.js.map",
+    "static/js/3.027d01ae.chunk.js": "https://xdefidev.github.io/csb-wz3004/static/js/3.027d01ae.chunk.js",
+    "static/js/3.027d01ae.chunk.js.map": "https://xdefidev.github.io/csb-wz3004/static/js/3.027d01ae.chunk.js.map",
+    "index.html": "https://xdefidev.github.io/csb-wz3004/index.html",
+    "static/css/2.7fa18b2e.chunk.css.map": "https://xdefidev.github.io/csb-wz3004/static/css/2.7fa18b2e.chunk.css.map",
+    "static/css/main.ead0b3bd.chunk.css.map": "https://xdefidev.github.io/csb-wz3004/static/css/main.ead0b3bd.chunk.css.map",
+    "static/js/2.ffbf75a4.chunk.js.LICENSE.txt": "https://xdefidev.github.io/csb-wz3004/static/js/2.ffbf75a4.chunk.js.LICENSE.txt",
+    "static/media/loader.ff2b6279.gif": "https://xdefidev.github.io/csb-wz3004/static/media/loader.ff2b6279.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32ced8cf.js",
+    "static/css/2.7fa18b2e.chunk.css",
+    "static/js/2.ffbf75a4.chunk.js",
+    "static/css/main.ead0b3bd.chunk.css",
+    "static/js/main.8fad8596.chunk.js"
+  ]
+}
